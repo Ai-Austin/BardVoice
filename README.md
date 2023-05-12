@@ -2,7 +2,7 @@
 Voice activated Python interface for Bard AI. Implements open sourced reverse engineered Bard API and OpenAI Whisper for local transcribing.
 
 ## YouTube tutorial and preview
-[my link]
+(https://youtu.be/vfbmlRSgj9Q)
 
 <span style="color:orange">NOTE: Open AI whisper will not run on Python versions newer than 3.10. Python 3.11 and newer will not run this program.
 ## Authentication
