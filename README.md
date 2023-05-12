@@ -20,7 +20,7 @@ Change directory to bard_voice.
 ```bash
 cd bard_voice
 ```
-Paste your Bard Token into line 13 of the main.py file, replacing {YOUR BARD TOKEN}.
+Paste your Bard Token into line 10 of the main.py file, replacing {YOUR BARD TOKEN}.
 ```bash
 token = "{YOUR BARD TOKEN}"
 ```
