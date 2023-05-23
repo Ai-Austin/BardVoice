@@ -14,7 +14,7 @@ Sign into your account with Bard access at https://bard.google.com/
 ## Installation
 Clone GitHub repo.
 ```bash
-git clone url
+https://github.com/Ai-Austin/BardVoice
 ```
 Change directory to bard_voice.
 ```bash
