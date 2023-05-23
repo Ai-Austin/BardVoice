@@ -1,5 +1,5 @@
 # Google Bard Voice Activated Assistant
-Voice activated Python interface for Bard AI. Implements open sourced reverse engineered Bard API and OpenAI Whisper for local transcribing.
+Google AI BARD powered Python voice assistant. Implements a free Bard API and OpenAI Whisper for local transcribing.
 
 ## YouTube tutorial and preview
 https://youtu.be/vfbmlRSgj9Q
