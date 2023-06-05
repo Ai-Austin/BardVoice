@@ -93,5 +93,6 @@ def main():
                 # Prints Bard response in red for linux & mac terminal
                 print("\033[31m" + 'Bards response: ', response, '\n' + "\033[0m")
             speak(response)
-
-main()
+            
+if __name__ == '__main__':
+    main()
