@@ -9,7 +9,8 @@ https://youtu.be/vfbmlRSgj9Q
 Sign into your account with Bard access at https://bard.google.com/
 - F12 for developer console
 - Copy the values
-  - Session: Go to Application → Cookies → `__Secure-1PSID`. Copy the value of that cookie.
+  - Session: Go to Application → Cookies → `__Secure-1PSID` and `__Secure-1PSIDTS`. Copy the values of those.
+  - Paste the values in line 10 & 11 for the token and ts_token variables inside main.py
 
 ## Installation
 Clone GitHub repo.
