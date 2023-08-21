@@ -10,7 +10,7 @@ import sys
 token = 'Replace with your __Secure-1PSID value.'
 ts_token = 'Replace with your __Secure-1PSIDTS value.'
 # Initialize Google Bard API
-chatbot = Chatbot(token)
+chatbot = Chatbot(token, ts_token)
 # Initialize speech recognition
 r = sr.Recognizer()
 # Initialize Whisper model
